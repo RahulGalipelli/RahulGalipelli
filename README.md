@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rahul Galipelli
 
-<!--
-**RahulGalipelli/RahulGalipelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Software Developer** and tech enthusiast with a knack for solving problems and building impactful applications. 🚀 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m currently working on:
+- Building personal projects with **Spring Boot** and **Angular/React**.
+
+---
+
+## 🌱 What I’m currently learning:
+- Advancing my skills through **Scaler**, focusing on **Data Structures, Algorithms, MySQL**, and **System Design**.
+- Deepening expertise in **Spring Framework**, **Angular/React**.
+
+---
+
+## 👯 I’m looking to collaborate on:
+- **Open-source projects** in Java, Angular, Spring Boot, and React.
+- Initiatives that promote **Corporate Social Responsibility (CSR)** in the tech space.
+
+---
+
+## 💬 Ask me about:
+- Full-stack development with **Java**, **Spring Boot**, and **Angular/React**.
+- Database management and **SQL optimization techniques**.
+- Insights from my learning journey with **Scaler** and practical problem-solving tips. 💡
+
+---
+
+## 📫 How to reach me:
+- **Email**: rahulgalipelli1603@gmail.com
+
+---
+
+## ⚡ Fun fact:
+I love turning complex problems into simple, elegant solutions and teaching others 🎥
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. Let’s build something amazing together! 🌟
+
